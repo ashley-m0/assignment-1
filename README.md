@@ -19,3 +19,4 @@ We've setup a GitHub action to run eslint and tests for the fibonacci endpoint.
 
 - You can run the linter locally by running `npm run lint`
 - You can run the tests defined in `tests/fib.test.ts` by running `npm run test`
+`
